@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TrendingNews</string>
+    <string name="title_activity_detailactivty">detailactivty</string>
+    <string name="action_settings">Add To Widget</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">OnlineTrending</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="login">LOGIN</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="top_headlines">top_headlines</string>
+    <string name="technology">technology</string>
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="sports">sports</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="bookmark">bookmark</string>
+
+
+    <!--<string name="banner">ca-app-pub-9347530033305316/6023197118</string>
+    <string name="sdkguide">ca-app-pub-9347530033305316~9733133992</string>-->
+</resources>

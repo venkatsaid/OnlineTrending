@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "567148022567",
+    "firebase_url": "https://onlinetrending-6d200.firebaseio.com",
+    "project_id": "onlinetrending-6d200",
+    "storage_bucket": "onlinetrending-6d200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567148022567:android:caa8a522efa9b95a",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.onlinetrending"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567148022567-eoeq6n86l8fi18ntkmlntjspv2tdbsmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.onlinetrending",
+            "certificate_hash": "64c588f5ee26a7c3d7ba5323d2b3202df6cedb15"
+          }
+        },
+        {
+          "client_id": "567148022567-lh5sns5tdrlgf1iuiocgorok4v52ualt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VgaowZ74PIRyVIj8ams11FOE_weXQ-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567148022567-lh5sns5tdrlgf1iuiocgorok4v52ualt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
